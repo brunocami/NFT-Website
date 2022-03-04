@@ -294,18 +294,18 @@
     }
 
     .main-content h1 {
-        font-size: 2.5rem;
+        font-size: 2rem;
         margin-top: 2rem;
     }
 
     .main-content p {
-        margin-top: 1rem;
+        margin-top: 2rem;
         font-size: 1.5rem;
     }
 
     @media screen and (max-width: 480px) {
         .main-content h1 {
-            font-size: 2rem;
+            font-size: 6rem;
             margin-top: 3rem;
         }
     
@@ -339,6 +339,7 @@
 
 .images h1 {
     color: #fff;
+    margin-top: 5rem;
     margin-bottom: 5rem;
     font-size: 2rem;
 }
