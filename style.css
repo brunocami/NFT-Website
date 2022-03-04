@@ -322,7 +322,6 @@
         #main__img {
             height: 325px;
             width: 300px;
-            border-radius: 20px;
         }
     }
 }
@@ -466,6 +465,26 @@
     }
 
     .images__card {
+        width: 300px;
+    }
+
+    .images__card:nth-child(2) {
+        width: 300px;
+    }
+    
+    .images__card:nth-child(3) {
+        width: 300px;
+    }
+    
+    .images__card:nth-child(4) {
+        width: 300px;
+    }
+    
+    .images__card:nth-child(5) {
+        width: 300px;
+    }
+    
+    .images__card:nth-child(6) {
         width: 300px;
     }
 }
